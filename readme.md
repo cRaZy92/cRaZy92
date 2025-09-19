@@ -34,7 +34,7 @@
 ## Some random stats because I like stats :)
 ![Time coded](https://wakapi.adamko.tech/api/badge/adamko/adamko/interval:30_days?label=Last%2030%20days)
 
-[![GitHub stats](https://github-stats.adamko.tech?username=cRaZy92&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-stats.adamko.tech?username=cRaZy92&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-stats.adamko.tech/top-langs/?username=cRaZy92&hide=TeX&layout=compact&include_all_commits=true&theme=dark&langs_count=8)
-![Wakapi](https://github-stats.adamko.tech/wakatime?username=adamko&api_domain=wakapi.adamko.tech&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=5)
+![Wakapi](https://github-stats.adamko.tech/wakatime?username=adamko&api_domain=wakapi.adamko.tech&bg_color=151515&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=5)
  
