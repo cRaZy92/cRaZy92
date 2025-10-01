@@ -30,9 +30,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
 ## Some random stats because I like stats :)
-![Time coded](https://wakapi.adamko.tech/api/badge/adamko/adamko/interval:30_days?label=Last%2030%20days)
+![Time coded](https://wakapi.adamko.tech/api/badge/cRaZy92/cRaZy92/interval:30_days?label=Last%2030%20days)
 
 ![GitHub stats](https://github-stats.adamko.tech?username=cRaZy92&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-stats.adamko.tech/top-langs/?username=cRaZy92&hide=TeX&layout=compact&include_all_commits=true&theme=dark&langs_count=8)
