@@ -36,5 +36,5 @@
 
 ![GitHub stats](https://github-stats.adamko.tech?username=cRaZy92&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-stats.adamko.tech/top-langs/?username=cRaZy92&hide=TeX&layout=compact&include_all_commits=true&theme=dark&langs_count=8)
-![Wakapi](https://github-stats.adamko.tech/wakatime?username=adamko&api_domain=wakapi.adamko.tech&bg_color=151515&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=5)
+![Wakapi](https://github-stats.adamko.tech/wakatime?username=cRaZy92&api_domain=wakapi.adamko.tech&bg_color=151515&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=5)
  
