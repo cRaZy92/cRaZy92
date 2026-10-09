@@ -31,9 +31,19 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Some random stats because I like stats :)
-![Time coded](https://wakapi.adamko.tech/api/badge/cRaZy92/cRaZy92/interval:30_days?label=Last%2030%20days)
+<p align="center">
+  <img src="https://wakapi.adamko.tech/api/badge/cRaZy92/cRaZy92/interval:30_days?label=Last%2030%20days" alt="Time coded" />
+</p>
 
-![GitHub stats](https://github-stats.adamko.tech?username=cRaZy92&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-stats.adamko.tech/top-langs/?username=cRaZy92&hide=TeX&layout=compact&include_all_commits=true&theme=dark&langs_count=8)
-![Wakapi](https://github-stats.adamko.tech/wakatime?username=cRaZy92&api_domain=wakapi.adamko.tech&bg_color=151515&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=5)
+<p align="center">
+  <img height="180" alt="GitHub stats"
+    src="https://github-stats.adamko.tech?username=cRaZy92&count_private=true&show_icons=true&include_all_commits=true&bg_color=151515&title_color=2F855A&icon_color=2F855A&text_color=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" alt="Languages by code"
+    src="https://github-stats.adamko.tech/top-langs/?username=cRaZy92&hide=TeX&layout=compact&langs_count=8&custom_title=Languages%20by%20code&bg_color=151515&title_color=2F855A&text_color=ffffff&hide_border=true" />
+  <img height="165" alt="Languages by time"
+    src="https://github-stats.adamko.tech/wakatime?username=cRaZy92&api_domain=wakapi.adamko.tech&layout=compact&langs_count=8&hide=unknown&custom_title=Languages%20by%20time&bg_color=151515&title_color=2F855A&text_color=ffffff&hide_border=true" />
+</p>
  
